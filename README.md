@@ -1,5 +1,5 @@
 ## About me
-I'm TheNoobPro44. I am a programmer and scripter, mainly working with programming bots in JavaScript. I also write scripts in Lua / Luau on Roblox. I've been programming for about 2 years now.
+I'm TheNoobPro44. I am a programmer and scripter, mainly working with programming bots in JavaScript. I also write scripts in Lua / Luau on Roblox
 
 ## Known programming languages
 ![Lua](https://img.shields.io/badge/Lua-blue.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -7,10 +7,10 @@ I'm TheNoobPro44. I am a programmer and scripter, mainly working with programmin
 ![Python](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 
-I also know a bit of: C#, Typescript.                                                                                                                                   |
+- Currently learning Rust.
 
 ## Contact me
-Contact me on Discord: TheNoobPro44#9520
+Contact me on Discord: thenoobpro44
 
 ## GitHub Analytics
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -19,9 +19,3 @@ Contact me on Discord: TheNoobPro44#9520
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheNoobPro44&layout=compact&bg_color=00000000&text_color=808080&hide_border=true" />
 </a>
-
-## Code Editors I use
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-## Operating Systems I use
-![Windows 11](https://img.shields.io/badge/Windows%2011-blue.svg?style=for-the-badge&logo=windows&logoColor=white)
